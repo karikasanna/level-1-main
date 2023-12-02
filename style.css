@@ -140,15 +140,15 @@ h1{
 }
 
 .kep1{
-    background-image: url(228.jpg);
+    background-image: url(pics/kep1.jpeg);
 }
 
 .kep2{
-    background-image: url(229.jpg);
+    background-image: url(pics/kep2.jpeg);
 }
 
 .kep3{
-    background-image: url(231.jpg);
+    background-image: url(pics/kep3.jpeg);
 }
 
 @media screen and (max-width:400px){
